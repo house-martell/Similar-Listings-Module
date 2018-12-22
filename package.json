@@ -1,0 +1,54 @@
+{
+  "name": "lulumelon_similar_listings",
+  "version": "1.0.0",
+  "description": "similar listings section for Front End Capstone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/house-martell/Similar-Listings-Module.git"
+  },
+  "author": "aliu1212",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/house-martell/Similar-Listings-Module/issues"
+  },
+  "homepage": "https://github.com/house-martell/Similar-Listings-Module#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-prettier": "^3.0.0",
+    "eslint-plugin-react": "^7.11.1",
+    "jest": "^23.6.0",
+    "prettier": "^1.15.3",
+    "superagent": "^4.0.0",
+    "supertest": "^3.3.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.4",
+    "nodemon": "^1.18.9",
+    "path": "^0.12.7",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "sequelize": "^4.42.0",
+    "webpack": "^4.28.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
