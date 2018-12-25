@@ -5,7 +5,8 @@ const Product = connection.define('product', {
   id: { type: Sequelize.INTEGER, primaryKey: true, autoIncrement: true },
   name: { type: Sequelize.STRING, allowNull: false },
   type: { type: Sequelize.STRING, allowNull: false },
-  price: { type: Sequelize.DECIMAL(10, 2), allowNull: false },
+  price: { type: Sequelize.STRING, allowNull: false },
+  // description: { type: Sequelize.STRING, allowNull: false },
 },
 {
   timestamps: false,
