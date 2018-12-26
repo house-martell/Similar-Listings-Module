@@ -2,6 +2,7 @@
 /* eslint-disable react/prop-types */
 /* eslint-disable react/destructuring-assignment */
 import React from 'react';
+import { TransitionGroup } from 'react-transition-group';
 import ListItemColors from './ListItemColors.jsx';
 
 // eslint-disable-next-line arrow-body-style
@@ -21,8 +22,20 @@ class SimilarListItem extends React.Component {
     super(props);
     this.state = {
       // item: 'useless',
+      isHovering: false,
     };
+    this.handleMouseHover = this.handleMouseHover.bind(this);
+    this.toggleHoverState = this.toggleHoverState.bind(this);
   }
+
+  handleMouseHover() {
+    this.setState(this.toggleHoverState);
+  }
+
+  toggleHoverState(state) {
+    return { isHovering: !state.isHovering, };
+  }
+
 
   // ideas::
   // have the colors be a state item, change the state per child item
@@ -34,9 +47,14 @@ class SimilarListItem extends React.Component {
   render() {
     return (
       <div className="SimilarListItem">
+
         {/* {console.log('props similar item', this.props)} */}
-        <img src={this.props.item[0].colors[0].photos[1].photo_url} alt="" />
-        <ListItemColors colors={this.props.item[0].colors} />
+        {/* <TransitionGroup transitionName="allColors" transitionEnterTimeout={700} transitionLeaveTimeout={700}> */}
+        <img src={this.props.item[0].colors[0].photos[1].photo_url} alt="" onMouseEnter={this.handleMouseHover} onMouseLeave={this.handleMouseHover} />
+        {
+          this.state.isHovering && <ListItemColors colors={this.props.item[0].colors} key={this.props.item[0].colors.id} />
+        }
+        {/* </TransitionGroup> */}
         <br />
         <div />
         <p>{this.props.item[0].name}</p>

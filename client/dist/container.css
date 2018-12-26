@@ -8,6 +8,24 @@
   align-content: center;
 }
 
+.allColors-enter {
+  opacity: 0.01;
+}
+
+.allColors-enter.allColors-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+
+.allColors-leave {
+  opacity: 1;
+}
+
+.allColors-leave.allColors-leave-active {
+  opacity: 0.01;
+  transition: opacity 300ms ease-in;
+}
+
 img {
   /* width: 450px; */
   max-width: 100%;
