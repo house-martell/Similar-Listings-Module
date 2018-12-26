@@ -2,7 +2,8 @@
 /* eslint-disable react/destructuring-assignment */
 /* eslint-disable arrow-body-style */
 import React from 'react';
-import { TransitionGroup, CSSTransition } from 'react-transition-group';
+import { CSSTransitionGroup } from 'react-transition-group';
+import ColorsBox from '../styles/ColorsBox';
 
 const ListItemColors = (props) => {
   return (
@@ -10,6 +11,7 @@ const ListItemColors = (props) => {
       {/* {console.log('props in colors', props.colors)} */}
       {/* <TransitionGroup transitionName="allColors" transitionEnterTimeout={700} transitionLeaveTimeout={700}>
         <CSSTransition key={props.colors.id} timeout={500} classNames="fade"> */}
+      {/* <ColorsBox /> */}
       {props.colors.map((item) => {
         return (
           <div className="swatch" style={{ float: 'left' }}>
@@ -17,7 +19,7 @@ const ListItemColors = (props) => {
           </div>
         );
       })}
-        {/* </CSSTransition>
+      {/* </CSSTransition>
       </TransitionGroup> */}
     </div>
 

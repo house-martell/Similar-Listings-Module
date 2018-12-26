@@ -10,6 +10,7 @@
 
 .allColors-enter {
   opacity: 0.01;
+  transition: opacity 500ms ease-in;
 }
 
 .allColors-enter.allColors-enter-active {
@@ -19,6 +20,7 @@
 
 .allColors-leave {
   opacity: 1;
+  transition: opacity 500ms ease-in;
 }
 
 .allColors-leave.allColors-leave-active {

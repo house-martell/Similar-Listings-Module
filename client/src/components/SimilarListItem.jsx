@@ -1,9 +1,10 @@
+/* eslint-disable arrow-body-style */
 /* eslint-disable import/extensions */
 /* eslint-disable react/prop-types */
 /* eslint-disable react/destructuring-assignment */
 import React from 'react';
-import { TransitionGroup } from 'react-transition-group';
-import ListItemColors from './ListItemColors.jsx';
+import { CSSTransitionGroup } from 'react-transition-group';
+//import ListItemColors from './ListItemColors.jsx';
 
 // eslint-disable-next-line arrow-body-style
 // const SimilarListItem = (props) => {
@@ -50,10 +51,28 @@ class SimilarListItem extends React.Component {
 
         {/* {console.log('props similar item', this.props)} */}
         {/* <TransitionGroup transitionName="allColors" transitionEnterTimeout={700} transitionLeaveTimeout={700}> */}
+
+        {/* <ListItemColors colors={this.props.item[0].colors} key={this.props.item[0].colors.id} /> */}
         <img src={this.props.item[0].colors[0].photos[1].photo_url} alt="" onMouseEnter={this.handleMouseHover} onMouseLeave={this.handleMouseHover} />
         {
-          this.state.isHovering && <ListItemColors colors={this.props.item[0].colors} key={this.props.item[0].colors.id} />
+          this.state.isHovering
+          && (
+            <div className="colors">
+              <CSSTransitionGroup key={this.props.item[0].colors.id} transitionName="allColors" transitionEnterTimeout={700} transitionLeaveTimeout={700}>
+
+                {this.props.item[0].colors.map((item) => {
+                  return (
+                    <div className="swatch" style={{ float: 'left' }}>
+                      <img src={item.swatch_url} alt="" />
+                    </div>
+                  );
+                })}
+
+              </CSSTransitionGroup>
+            </div>
+          )
         }
+
         {/* </TransitionGroup> */}
         <br />
         <div />
