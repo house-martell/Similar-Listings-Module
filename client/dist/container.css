@@ -26,6 +26,16 @@
   transition: opacity 300ms ease-in;
 }
 
+.colors {
+  padding-top: 15px;
+  padding-bottom: 7px;
+}
+
+.SimilarListItem {
+  padding-left: 7px;
+  padding-right: 7px;
+}
+
 img {
   /* width: 450px; */
   max-width: 100%;
