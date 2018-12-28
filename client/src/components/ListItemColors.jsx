@@ -6,20 +6,20 @@ import { TransitionGroup, CSSTransition } from 'react-transition-group';
 
 const ListItemColors = (props) => {
   return (
-    <div className="colors">
+    <span className="colors">
       {/* {console.log('props in colors', props.colors)} */}
       {/* <TransitionGroup transitionName="allColors" transitionEnterTimeout={700} transitionLeaveTimeout={700}>
         <CSSTransition key={props.colors.id} timeout={500} classNames="fade"> */}
       {props.colors.map((item) => {
         return (
-          <div className="swatch" style={{ float: 'left' }}>
+          <span className="swatch">
             <img src={item.swatch_url} alt="" />
-          </div>
+          </span>
         );
       })}
         {/* </CSSTransition>
       </TransitionGroup> */}
-    </div>
+    </span>
 
   //   <div className="swatch" style="float:left;height:134px;width:150px">
   //     <img src="http://i2.ytimg.com/vi/yKWoPlL2B8I/mqdefault.jpg" width="150" />

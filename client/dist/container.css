@@ -7,7 +7,7 @@
   justify-content: space-around;
   align-content: center;
 }
-
+/* 
 .allColors-enter {
   opacity: 0.01;
 }
@@ -24,17 +24,51 @@
 .allColors-leave.allColors-leave-active {
   opacity: 0.01;
   transition: opacity 300ms ease-in;
-}
+} */
 
-.colors {
+/* .colors {
   padding-top: 15px;
   padding-bottom: 7px;
-}
+} */
 
 .SimilarListItem {
   padding-left: 7px;
   padding-right: 7px;
 }
+
+.SimilarImageContainer {
+  position: relative;
+  /* z-index: 1; */
+}
+
+
+
+.SimilarImageContainer .ColorSwatchesContainer {
+  position: absolute; 
+  bottom: 0px;
+  opacity: 0;
+  -webkit-transition: opacity 0.5s ease-out;
+  -moz-transition: opacity 0.5s ease-out;
+  -o-transition: opacity 0.5s ease-out;
+  transition: opacity 0.5s ease-out;
+  float: none;
+  padding: 10px;
+  padding-top: 12px;
+  background-image: linear-gradient(white, white), 
+    linear-gradient(white, white);
+  background-clip: content-box, padding-box;
+  width: 93%;
+  /* z-index: 10; */
+}
+
+.swatch {
+  padding: 1px;
+}
+
+.SimilarImageContainer:hover .ColorSwatchesContainer { 
+  opacity: 0.99; 
+} 
+
 
 img {
   /* width: 450px; */

@@ -5,6 +5,7 @@ import React from 'react';
 import { TransitionGroup } from 'react-transition-group';
 import ListItemColors from './ListItemColors.jsx';
 
+
 // eslint-disable-next-line arrow-body-style
 // const SimilarListItem = (props) => {
 //   return (
@@ -33,7 +34,7 @@ class SimilarListItem extends React.Component {
   }
 
   toggleHoverState(state) {
-    return { isHovering: !state.isHovering, };
+    return { isHovering: !state.isHovering };
   }
 
 
@@ -50,13 +51,18 @@ class SimilarListItem extends React.Component {
 
         {/* {console.log('props similar item', this.props)} */}
         {/* <TransitionGroup transitionName="allColors" transitionEnterTimeout={700} transitionLeaveTimeout={700}> */}
-        <img src={this.props.item[0].colors[0].photos[1].photo_url} alt="" onMouseEnter={this.handleMouseHover} onMouseLeave={this.handleMouseHover} />
+        {/* <img src={this.props.item[0].colors[0].photos[1].photo_url} alt="" onMouseEnter={this.handleMouseHover} onMouseLeave={this.handleMouseHover} /> */}
+
+        <div className="SimilarImageContainer">
+          <img src={this.props.item[0].colors[0].photos[1].photo_url} alt="" />
+          <div className="ColorSwatchesContainer">
+            <ListItemColors colors={this.props.item[0].colors} key={this.props.item[0].colors.id} />
+          </div>
+        </div>
         {
-          this.state.isHovering && <ListItemColors colors={this.props.item[0].colors} key={this.props.item[0].colors.id} />
+        // this.state.isHovering && <ListItemColors colors={this.props.item[0].colors} key={this.props.item[0].colors.id} />
         }
-        {/* </TransitionGroup> */}
-        <br />
-        <div />
+        {/* </TransitionGroup> */}        
         <p>{this.props.item[0].name}</p>
         <p>{this.props.item[0].price}</p>
       </div>
