@@ -2,13 +2,14 @@
 /* eslint-disable react/destructuring-assignment */
 /* eslint-disable arrow-body-style */
 import React from 'react';
-import { TransitionGroup, CSSTransition } from 'react-transition-group';
+// import { TransitionGroup, CSSTransition } from 'react-transition-group';
 
 const ListItemColors = (props) => {
   return (
     <span className="colors">
       {/* {console.log('props in colors', props.colors)} */}
-      {/* <TransitionGroup transitionName="allColors" transitionEnterTimeout={700} transitionLeaveTimeout={700}>
+      {/* <TransitionGroup transitionName="allColors" transitionEnterTimeout={700}
+        transitionLeaveTimeout={700}>
         <CSSTransition key={props.colors.id} timeout={500} classNames="fade"> */}
       {props.colors.map((item) => {
         return (
@@ -17,8 +18,7 @@ const ListItemColors = (props) => {
           </span>
         );
       })}
-        {/* </CSSTransition>
-      </TransitionGroup> */}
+
     </span>
 
   //   <div className="swatch" style="float:left;height:134px;width:150px">
