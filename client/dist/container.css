@@ -6,7 +6,9 @@
 #title {
   font-family: 'verlag';
   text-align: center;
-  font-size: 45px;
+  font-size: 48px;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 .itemContainer {
@@ -53,7 +55,7 @@
   white-space: nowrap;
   overflow: hidden;
   /* overflow-x: scroll; */
-  /* z-index: 10; */
+  z-index: 5;
 }
 
 .SimilarImageContainer:hover .ColorSwatchesContainer { 
@@ -67,6 +69,7 @@
   height: 120px;
 }
 
+/* no worky */
 .oneSwatch:hover {
   border: black;
 }
@@ -74,13 +77,35 @@
 #swatchImage {
   height: 25px;
   width: 50px;
+  z-index: 10;
 }
 
-.SimiarImage {
-  /* width: 450px; */
-  max-width: 100%;
-  /* max-height: 351px; */
+/* also no worky */
+#swatchImage:hover + .oneSwatch {
+  border: 5px black;
 }
+
+.SimilarImage {
+  max-width: 100%;
+  z-index: 1;
+}
+
+.SimilarHoverImage {
+  max-width: 100%;
+  display: none;
+  z-index: 2;
+}
+
+.SimilarImage:hover {
+  display: none;
+}
+
+.SimilarImage:hover + .SimilarHoverImage {
+  display: inline-flex;
+  opacity: 1;
+} 
+
+
 .ArrowPic {
   max-width: 100%;
   max-height: 100%;
@@ -112,6 +137,21 @@
   z-index: 1;
   background-color: white;
   opacity: 0.8;
+}
+
+#similarItemName {
+  padding-top: 9px;
+  padding-bottom: 5px;
+  font-size: 20px;
+}
+
+#similarItemPrice {
+  font-size: 18px;
+  font-weight: 100;
+}
+
+#similarItemCurrency {
+  font-size: 13px;
 }
 /* .SimilarListItem {
   

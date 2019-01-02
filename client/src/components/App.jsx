@@ -55,12 +55,13 @@ class App extends React.Component {
   render() {
     return (
       <div className="TheWholeThing">
-        <h2 id="title">You may also like</h2>
+        <div id="title">You may also like</div>
         <div className="itemContainer">
           {this.state.similarItemsData.map((item) => {
             return <SimilarListItem item={item} />;
           })}
         </div>
+        <br />
       </div>
     );
   }

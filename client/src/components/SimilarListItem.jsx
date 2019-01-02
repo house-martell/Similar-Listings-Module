@@ -55,7 +55,10 @@ class SimilarListItem extends React.Component {
         {/* <img src={this.props.item[0].colors[0].photos[1].photo_url} alt="" onMouseEnter={this.handleMouseHover} onMouseLeave={this.handleMouseHover} /> */}
 
         <div className="SimilarImageContainer">
-          <img className="SimiarImage" src={this.props.item[0].colors[0].photos[0].photo_url} alt="" />
+          <div className="SimilarImageWrapper">
+            <img className="SimilarImage" src={this.props.item[0].colors[0].photos[0].photo_url} alt="" />
+            <img className="SimilarHoverImage" src={this.props.item[0].colors[0].photos[1].photo_url} alt="" />
+          </div>
           <div className="ColorSwatchesContainer">
             <a className="arrow-left arrow"><img className="ArrowPic" src="https://s3-us-west-1.amazonaws.com/lubucket3003/leftarrow.png" alt="" /></a>
             <a className="arrow-right arrow"><img className="RightArrowPic" src="https://s3-us-west-1.amazonaws.com/lubucket3003/leftarrow.png" alt="" /></a>
@@ -69,8 +72,9 @@ class SimilarListItem extends React.Component {
         // key={this.props.item[0].colors.id} />
         }
         {/* </TransitionGroup> */}
-        <p>{this.props.item[0].name}</p>
-        <p>{this.props.item[0].price}</p>
+        <div id="similarItemName">{this.props.item[0].name}</div>
+        <span id="similarItemPrice">{this.props.item[0].price}</span>
+        <span id="similarItemCurrency"> USD</span>
       </div>
     );
   }
