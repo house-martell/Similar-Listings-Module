@@ -1,5 +1,5 @@
 // import $ from 'jquery';
-
+// purpose of this file to help with animating carousel
 
 $(".arrow").click(() => {
   console.log('i was clicked!');

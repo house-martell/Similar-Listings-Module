@@ -65,9 +65,10 @@ class SimilarListItem extends React.Component {
           <script src="../../dist/clickscript.js" />
         </div>
         {
-        // this.state.isHovering && <ListItemColors colors={this.props.item[0].colors} key={this.props.item[0].colors.id} />
+        // this.state.isHovering && <ListItemColors colors={this.props.item[0].colors} 
+        // key={this.props.item[0].colors.id} />
         }
-        {/* </TransitionGroup> */}        
+        {/* </TransitionGroup> */}
         <p>{this.props.item[0].name}</p>
         <p>{this.props.item[0].price}</p>
       </div>
