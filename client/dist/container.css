@@ -35,7 +35,7 @@
   /* z-index: 1; */
 }
 
-.SimilarImageContainer .ColorSwatchesContainer {
+.ColorSwatchesContainer {
   position: absolute; 
   bottom: 0px;
   opacity: 0;
@@ -87,24 +87,22 @@
 
 .SimilarImage {
   max-width: 100%;
-  z-index: 1;
+  position:absolute;
+  top: 0;
+  right: 0;
 }
 
 .SimilarHoverImage {
   max-width: 100%;
-  display: none;
-  z-index: 2;
 }
 
 .SimilarImage:hover {
-  display: none;
+  opacity: 0;
 }
 
-.SimilarImage:hover + .SimilarHoverImage {
-  display: inline-flex;
+/* .SimilarImage:hover + .SimilarHoverImage {
   opacity: 1;
-} 
-
+}  */
 
 .ArrowPic {
   max-width: 100%;

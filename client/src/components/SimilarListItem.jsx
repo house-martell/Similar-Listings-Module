@@ -55,7 +55,7 @@ class SimilarListItem extends React.Component {
         {/* <img src={this.props.item[0].colors[0].photos[1].photo_url} alt="" onMouseEnter={this.handleMouseHover} onMouseLeave={this.handleMouseHover} /> */}
 
         <div className="SimilarImageContainer">
-          <div className="SimilarImageWrapper">
+          <div className="SimilarImageWrapper" >
             <img className="SimilarImage" src={this.props.item[0].colors[0].photos[0].photo_url} alt="" />
             <img className="SimilarHoverImage" src={this.props.item[0].colors[0].photos[1].photo_url} alt="" />
           </div>
