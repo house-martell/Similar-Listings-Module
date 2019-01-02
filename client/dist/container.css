@@ -60,15 +60,20 @@
   opacity: 0.99; 
 } 
 
-.swatch {
+.oneSwatch {
   padding-left: 5px;
   padding-right: 5px;
   max-width: 300px;
   height: 120px;
 }
 
-.swatch:hover {
+.oneSwatch:hover {
   border: black;
+}
+
+#swatchImage {
+  height: 25px;
+  width: 50px;
 }
 
 .SimiarImage {

@@ -13,8 +13,8 @@ const ListItemColors = (props) => {
         <CSSTransition key={props.colors.id} timeout={500} classNames="fade"> */}
       {props.colors.map((item) => {
         return (
-          <span className="swatch">
-            <img src={item.swatch_url} alt="" />
+          <span className="oneSwatch">
+            <img id="swatchImage" src={item.swatch_url} alt="" />
           </span>
         );
       })}

@@ -55,7 +55,7 @@ class SimilarListItem extends React.Component {
         {/* <img src={this.props.item[0].colors[0].photos[1].photo_url} alt="" onMouseEnter={this.handleMouseHover} onMouseLeave={this.handleMouseHover} /> */}
 
         <div className="SimilarImageContainer">
-          <img className="SimiarImage" src={this.props.item[0].colors[0].photos[1].photo_url} alt="" />
+          <img className="SimiarImage" src={this.props.item[0].colors[0].photos[0].photo_url} alt="" />
           <div className="ColorSwatchesContainer">
             <a className="arrow-left arrow"><img className="ArrowPic" src="https://s3-us-west-1.amazonaws.com/lubucket3003/leftarrow.png" alt="" /></a>
             <a className="arrow-right arrow"><img className="RightArrowPic" src="https://s3-us-west-1.amazonaws.com/lubucket3003/leftarrow.png" alt="" /></a>
@@ -65,7 +65,7 @@ class SimilarListItem extends React.Component {
           <script src="../../dist/clickscript.js" />
         </div>
         {
-        // this.state.isHovering && <ListItemColors colors={this.props.item[0].colors} 
+        // this.state.isHovering && <ListItemColors colors={this.props.item[0].colors}
         // key={this.props.item[0].colors.id} />
         }
         {/* </TransitionGroup> */}

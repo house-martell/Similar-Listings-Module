@@ -740,1118 +740,1118 @@ const photoSeedData = [
     photo_url: 'https://s3-us-west-1.amazonaws.com/lubucket3003/lulumelon_pics/4/05_black/LW5BJGS_0001_2.jpg',
     colorId: 21
   },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo1.jpeg',
-    colorId: 22
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo2.jpeg',
-    colorId: 22
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo3.jpeg',
-    colorId: 22
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo4.jpeg',
-    colorId: 22
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo5.jpeg',
-    colorId: 22
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo6.jpeg',
-    colorId: 22
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo7.jpeg',
-    colorId: 22
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo8.jpeg',
-    colorId: 22
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color8_photo1.jpeg',
-    colorId: 23
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color8_photo2.jpeg',
-    colorId: 23
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color8_photo3.jpeg',
-    colorId: 23
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color8_photo4.jpeg',
-    colorId: 23
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color8_photo5.jpeg',
-    colorId: 23
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color8_photo6.jpeg',
-    colorId: 23
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color8_photo7.jpeg',
-    colorId: 23
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color1_photo1.jpeg',
-    colorId: 24
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color1_photo2.jpeg',
-    colorId: 24
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color1_photo3.jpeg',
-    colorId: 24
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color1_photo4.jpeg',
-    colorId: 24
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color1_photo5.jpeg',
-    colorId: 24
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color1_photo6.jpeg',
-    colorId: 24
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color2_photo1.jpeg',
-    colorId: 25
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color2_photo2.jpeg',
-    colorId: 25
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color2_photo3.jpeg',
-    colorId: 25
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color2_photo4.jpeg',
-    colorId: 25
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color2_photo5.jpeg',
-    colorId: 25
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color2_photo6.jpeg',
-    colorId: 25
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color3_photo1.jpeg',
-    colorId: 26
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color3_photo2.jpeg',
-    colorId: 26
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color3_photo3.jpeg',
-    colorId: 26
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color3_photo4.jpeg',
-    colorId: 26
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color3_photo5.jpeg',
-    colorId: 26
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color3_photo6.jpeg',
-    colorId: 26
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color3_photo7.jpeg',
-    colorId: 26
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo1.jpeg',
-    colorId: 27
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo2.jpeg',
-    colorId: 27
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo3.jpeg',
-    colorId: 27
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo4.jpeg',
-    colorId: 27
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo5.jpeg',
-    colorId: 27
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo6.jpeg',
-    colorId: 27
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo7.jpeg',
-    colorId: 27
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo8.jpeg',
-    colorId: 27
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo9.jpeg',
-    colorId: 27
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo1.jpeg',
-    colorId: 28
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo2.jpeg',
-    colorId: 28
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo3.jpeg',
-    colorId: 28
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo4.jpeg',
-    colorId: 28
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo5.jpeg',
-    colorId: 28
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo6.jpeg',
-    colorId: 28
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo7.jpeg',
-    colorId: 28
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo8.jpeg',
-    colorId: 28
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color2_photo1.jpeg',
-    colorId: 29
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color2_photo2.jpeg',
-    colorId: 29
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color2_photo3.jpeg',
-    colorId: 29
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color2_photo4.jpeg',
-    colorId: 29
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color2_photo5.jpeg',
-    colorId: 29
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color2_photo6.jpeg',
-    colorId: 29
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color2_photo7.jpeg',
-    colorId: 29
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color3_photo1.jpeg',
-    colorId: 30
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color3_photo2.jpeg',
-    colorId: 30
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color3_photo3.jpeg',
-    colorId: 30
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color3_photo4.jpeg',
-    colorId: 30
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color3_photo5.jpeg',
-    colorId: 30
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color3_photo6.jpeg',
-    colorId: 30
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color3_photo7.jpeg',
-    colorId: 30
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color1_photo1.jpeg',
-    colorId: 31
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color1_photo2.jpeg',
-    colorId: 31
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color1_photo3.jpeg',
-    colorId: 31
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color1_photo4.jpeg',
-    colorId: 31
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color1_photo5.jpeg',
-    colorId: 31
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color1_photo6.jpeg',
-    colorId: 31
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color1_photo7.jpeg',
-    colorId: 31
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color2_photo1.jpeg',
-    colorId: 32
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color2_photo2.jpeg',
-    colorId: 32
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color2_photo3.jpeg',
-    colorId: 32
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color2_photo4.jpeg',
-    colorId: 32
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color2_photo5.jpeg',
-    colorId: 32
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color2_photo6.jpeg',
-    colorId: 32
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color2_photo7.jpeg',
-    colorId: 32
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color3_photo1.jpeg',
-    colorId: 33
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color3_photo2.jpeg',
-    colorId: 33
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color3_photo3.jpeg',
-    colorId: 33
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color3_photo4.jpeg',
-    colorId: 33
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color3_photo5.jpeg',
-    colorId: 33
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color3_photo6.jpeg',
-    colorId: 33
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color4_photo1.jpeg',
-    colorId: 34
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color4_photo2.jpeg',
-    colorId: 34
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color4_photo3.jpeg',
-    colorId: 34
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color4_photo4.jpeg',
-    colorId: 34
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color4_photo5.jpeg',
-    colorId: 34
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color4_photo6.jpeg',
-    colorId: 34
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color4_photo7.jpeg',
-    colorId: 34
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color5_photo1.jpeg',
-    colorId: 35
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color5_photo2.jpeg',
-    colorId: 35
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color5_photo3.jpeg',
-    colorId: 35
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color5_photo4.jpeg',
-    colorId: 35
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color1_photo1.jpeg',
-    colorId: 36
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color1_photo2.jpeg',
-    colorId: 36
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color1_photo3.jpeg',
-    colorId: 36
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color1_photo4.jpeg',
-    colorId: 36
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color1_photo5.jpeg',
-    colorId: 36
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color1_photo6.jpeg',
-    colorId: 36
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color2_photo1.jpeg',
-    colorId: 37
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color2_photo2.jpeg',
-    colorId: 37
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color2_photo3.jpeg',
-    colorId: 37
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color2_photo4.jpeg',
-    colorId: 37
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color2_photo5.jpeg',
-    colorId: 37
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color2_photo6.jpeg',
-    colorId: 37
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color3_photo1.jpeg',
-    colorId: 38
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color3_photo2.jpeg',
-    colorId: 38
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color3_photo3.jpeg',
-    colorId: 38
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color3_photo4.jpeg',
-    colorId: 38
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color3_photo5.jpeg',
-    colorId: 38
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color3_photo6.jpeg',
-    colorId: 38
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color4_photo1.jpeg',
-    colorId: 39
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color4_photo2.jpeg',
-    colorId: 39
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color4_photo3.jpeg',
-    colorId: 39
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color4_photo4.jpeg',
-    colorId: 39
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color4_photo5.jpeg',
-    colorId: 39
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color4_photo6.jpeg',
-    colorId: 39
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color1_photo1.jpeg',
-    colorId: 40
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color1_photo2.jpeg',
-    colorId: 40
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color1_photo3.jpeg',
-    colorId: 40
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color1_photo4.jpeg',
-    colorId: 40
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color1_photo5.jpeg',
-    colorId: 40
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color1_photo6.jpeg',
-    colorId: 40
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color2_photo1.jpeg',
-    colorId: 41
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color2_photo2.jpeg',
-    colorId: 41
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color2_photo3.jpeg',
-    colorId: 41
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color2_photo4.jpeg',
-    colorId: 41
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color2_photo5.jpeg',
-    colorId: 41
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color2_photo6.jpeg',
-    colorId: 41
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color1_photo1.jpeg',
-    colorId: 42
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color1_photo2.jpeg',
-    colorId: 42
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color1_photo3.jpeg',
-    colorId: 42
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color1_photo4.jpeg',
-    colorId: 42
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color1_photo5.jpeg',
-    colorId: 42
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color1_photo6.jpeg',
-    colorId: 42
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color2_photo1.jpeg',
-    colorId: 43
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color2_photo2.jpeg',
-    colorId: 43
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color2_photo3.jpeg',
-    colorId: 43
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color2_photo4.jpeg',
-    colorId: 43
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color2_photo5.jpeg',
-    colorId: 43
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color3_photo1.jpeg',
-    colorId: 44
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color3_photo2.jpeg',
-    colorId: 44
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color3_photo3.jpeg',
-    colorId: 44
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color3_photo4.jpeg',
-    colorId: 44
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color3_photo5.jpeg',
-    colorId: 44
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color3_photo6.jpeg',
-    colorId: 44
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color3_photo7.jpeg',
-    colorId: 44
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color4_photo1.jpeg',
-    colorId: 45
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color4_photo2.jpeg',
-    colorId: 45
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color4_photo3.jpeg',
-    colorId: 45
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color4_photo4.jpeg',
-    colorId: 45
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color4_photo5.jpeg',
-    colorId: 45
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color4_photo6.jpeg',
-    colorId: 45
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color5_photo1.jpeg',
-    colorId: 46
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color5_photo2.jpeg',
-    colorId: 46
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color5_photo3.jpeg',
-    colorId: 46
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color5_photo4.jpeg',
-    colorId: 46
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color5_photo5.jpeg',
-    colorId: 46
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color5_photo6.jpeg',
-    colorId: 46
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color6_photo1.jpeg',
-    colorId: 47
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color6_photo2.jpeg',
-    colorId: 47
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color6_photo3.jpeg',
-    colorId: 47
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color6_photo4.jpeg',
-    colorId: 47
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color6_photo5.jpeg',
-    colorId: 47
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color6_photo6.jpeg',
-    colorId: 47
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo1.jpeg',
-    colorId: 48
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo2.jpeg',
-    colorId: 48
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo3.jpeg',
-    colorId: 48
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo4.jpeg',
-    colorId: 48
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo5.jpeg',
-    colorId: 48
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo6.jpeg',
-    colorId: 48
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo7.jpeg',
-    colorId: 48
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo8.jpeg',
-    colorId: 48
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color8_photo1.jpeg',
-    colorId: 49
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color8_photo2.jpeg',
-    colorId: 49
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color8_photo3.jpeg',
-    colorId: 49
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color8_photo4.jpeg',
-    colorId: 49
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color8_photo5.jpeg',
-    colorId: 49
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color9_photo1.jpeg',
-    colorId: 50
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color9_photo2.jpeg',
-    colorId: 50
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color9_photo3.jpeg',
-    colorId: 50
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color9_photo4.jpeg',
-    colorId: 50
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color9_photo5.jpeg',
-    colorId: 50
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color9_photo6.jpeg',
-    colorId: 50
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color1_photo1.jpeg',
-    colorId: 51
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color1_photo2.jpeg',
-    colorId: 51
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color1_photo3.jpeg',
-    colorId: 51
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color1_photo4.jpeg',
-    colorId: 51
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color1_photo5.jpeg',
-    colorId: 51
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color1_photo6.jpeg',
-    colorId: 51
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color2_photo1.jpeg',
-    colorId: 52
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color2_photo2.jpeg',
-    colorId: 52
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color2_photo3.jpeg',
-    colorId: 52
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color2_photo4.jpeg',
-    colorId: 52
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color2_photo5.jpeg',
-    colorId: 52
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color2_photo6.jpeg',
-    colorId: 52
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color3_photo1.jpeg',
-    colorId: 53
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color3_photo2.jpeg',
-    colorId: 53
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color3_photo3.jpeg',
-    colorId: 53
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color3_photo4.jpeg',
-    colorId: 53
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color3_photo5.jpeg',
-    colorId: 53
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color3_photo6.jpeg',
-    colorId: 53
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color4_photo1.jpeg',
-    colorId: 54
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color4_photo2.jpeg',
-    colorId: 54
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color4_photo3.jpeg',
-    colorId: 54
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color4_photo4.jpeg',
-    colorId: 54
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color4_photo5.jpeg',
-    colorId: 54
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color4_photo6.jpeg',
-    colorId: 54
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color5_photo1.jpeg',
-    colorId: 55
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color5_photo2.jpeg',
-    colorId: 55
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color5_photo3.jpeg',
-    colorId: 55
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color5_photo4.jpeg',
-    colorId: 55
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color5_photo5.jpeg',
-    colorId: 55
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color5_photo6.jpeg',
-    colorId: 55
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color6_photo1.jpeg',
-    colorId: 56
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color6_photo2.jpeg',
-    colorId: 56
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color6_photo3.jpeg',
-    colorId: 56
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color6_photo4.jpeg',
-    colorId: 56
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color6_photo5.jpeg',
-    colorId: 56
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color6_photo6.jpeg',
-    colorId: 56
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color1_photo1.jpeg',
-    colorId: 57
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color1_photo2.jpeg',
-    colorId: 57
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color1_photo3.jpeg',
-    colorId: 57
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color1_photo4.jpeg',
-    colorId: 57
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color1_photo5.jpeg',
-    colorId: 57
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color2_photo1.jpeg',
-    colorId: 58
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color2_photo2.jpeg',
-    colorId: 58
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color2_photo3.jpeg',
-    colorId: 58
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color2_photo4.jpeg',
-    colorId: 58
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color3_photo1.jpeg',
-    colorId: 59
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color3_photo2.jpeg',
-    colorId: 59
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color3_photo3.jpeg',
-    colorId: 59
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color3_photo4.jpeg',
-    colorId: 59
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color3_photo5.jpeg',
-    colorId: 59
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color3_photo6.jpeg',
-    colorId: 59
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color4_photo1.jpeg',
-    colorId: 60
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color4_photo2.jpeg',
-    colorId: 60
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color4_photo3.jpeg',
-    colorId: 60
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color4_photo4.jpeg',
-    colorId: 60
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color4_photo5.jpeg',
-    colorId: 60
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color5_photo1.jpeg',
-    colorId: 61
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color5_photo2.jpeg',
-    colorId: 61
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color5_photo3.jpeg',
-    colorId: 61
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color5_photo4.jpeg',
-    colorId: 61
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color5_photo5.jpeg',
-    colorId: 61
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color5_photo6.jpeg',
-    colorId: 61
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color6_photo1.jpeg',
-    colorId: 62
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color6_photo2.jpeg',
-    colorId: 62
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color6_photo3.jpeg',
-    colorId: 62
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color6_photo4.jpeg',
-    colorId: 62
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color6_photo5.jpeg',
-    colorId: 62
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color7_photo1.jpeg',
-    colorId: 63
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color7_photo2.jpeg',
-    colorId: 63
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color7_photo3.jpeg',
-    colorId: 63
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color7_photo4.jpeg',
-    colorId: 63
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color7_photo5.jpeg',
-    colorId: 63
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color7_photo6.jpeg',
-    colorId: 63
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color1_photo1.jpeg',
-    colorId: 64
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color1_photo2.jpeg',
-    colorId: 64
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color1_photo3.jpeg',
-    colorId: 64
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color1_photo4.jpeg',
-    colorId: 64
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color1_photo5.jpeg',
-    colorId: 64
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color1_photo6.jpeg',
-    colorId: 64
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color1_photo7.jpeg',
-    colorId: 64
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color2_photo1.jpeg',
-    colorId: 65
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color2_photo2.jpeg',
-    colorId: 65
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color2_photo3.jpeg',
-    colorId: 65
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color2_photo4.jpeg',
-    colorId: 65
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color2_photo5.jpeg',
-    colorId: 65
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color2_photo6.jpeg',
-    colorId: 65
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color3_photo1.jpeg',
-    colorId: 66
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color3_photo2.jpeg',
-    colorId: 66
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color3_photo3.jpeg',
-    colorId: 66
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color3_photo4.jpeg',
-    colorId: 66
-  },
-  {
-    photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color3_photo5.jpeg',
-    colorId: 66
-  }
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo1.jpeg',
+  //   colorId: 22
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo2.jpeg',
+  //   colorId: 22
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo3.jpeg',
+  //   colorId: 22
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo4.jpeg',
+  //   colorId: 22
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo5.jpeg',
+  //   colorId: 22
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo6.jpeg',
+  //   colorId: 22
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo7.jpeg',
+  //   colorId: 22
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color7_photo8.jpeg',
+  //   colorId: 22
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color8_photo1.jpeg',
+  //   colorId: 23
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color8_photo2.jpeg',
+  //   colorId: 23
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color8_photo3.jpeg',
+  //   colorId: 23
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color8_photo4.jpeg',
+  //   colorId: 23
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color8_photo5.jpeg',
+  //   colorId: 23
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color8_photo6.jpeg',
+  //   colorId: 23
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product4/lulumelon_product4_color8_photo7.jpeg',
+  //   colorId: 23
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color1_photo1.jpeg',
+  //   colorId: 24
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color1_photo2.jpeg',
+  //   colorId: 24
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color1_photo3.jpeg',
+  //   colorId: 24
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color1_photo4.jpeg',
+  //   colorId: 24
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color1_photo5.jpeg',
+  //   colorId: 24
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color1_photo6.jpeg',
+  //   colorId: 24
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color2_photo1.jpeg',
+  //   colorId: 25
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color2_photo2.jpeg',
+  //   colorId: 25
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color2_photo3.jpeg',
+  //   colorId: 25
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color2_photo4.jpeg',
+  //   colorId: 25
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color2_photo5.jpeg',
+  //   colorId: 25
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color2_photo6.jpeg',
+  //   colorId: 25
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color3_photo1.jpeg',
+  //   colorId: 26
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color3_photo2.jpeg',
+  //   colorId: 26
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color3_photo3.jpeg',
+  //   colorId: 26
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color3_photo4.jpeg',
+  //   colorId: 26
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color3_photo5.jpeg',
+  //   colorId: 26
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color3_photo6.jpeg',
+  //   colorId: 26
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color3_photo7.jpeg',
+  //   colorId: 26
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo1.jpeg',
+  //   colorId: 27
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo2.jpeg',
+  //   colorId: 27
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo3.jpeg',
+  //   colorId: 27
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo4.jpeg',
+  //   colorId: 27
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo5.jpeg',
+  //   colorId: 27
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo6.jpeg',
+  //   colorId: 27
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo7.jpeg',
+  //   colorId: 27
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo8.jpeg',
+  //   colorId: 27
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product5/lulumelon_product5_color4_photo9.jpeg',
+  //   colorId: 27
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo1.jpeg',
+  //   colorId: 28
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo2.jpeg',
+  //   colorId: 28
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo3.jpeg',
+  //   colorId: 28
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo4.jpeg',
+  //   colorId: 28
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo5.jpeg',
+  //   colorId: 28
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo6.jpeg',
+  //   colorId: 28
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo7.jpeg',
+  //   colorId: 28
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color1_photo8.jpeg',
+  //   colorId: 28
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color2_photo1.jpeg',
+  //   colorId: 29
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color2_photo2.jpeg',
+  //   colorId: 29
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color2_photo3.jpeg',
+  //   colorId: 29
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color2_photo4.jpeg',
+  //   colorId: 29
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color2_photo5.jpeg',
+  //   colorId: 29
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color2_photo6.jpeg',
+  //   colorId: 29
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color2_photo7.jpeg',
+  //   colorId: 29
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color3_photo1.jpeg',
+  //   colorId: 30
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color3_photo2.jpeg',
+  //   colorId: 30
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color3_photo3.jpeg',
+  //   colorId: 30
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color3_photo4.jpeg',
+  //   colorId: 30
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color3_photo5.jpeg',
+  //   colorId: 30
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color3_photo6.jpeg',
+  //   colorId: 30
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product6/lulumelon_product6_color3_photo7.jpeg',
+  //   colorId: 30
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color1_photo1.jpeg',
+  //   colorId: 31
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color1_photo2.jpeg',
+  //   colorId: 31
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color1_photo3.jpeg',
+  //   colorId: 31
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color1_photo4.jpeg',
+  //   colorId: 31
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color1_photo5.jpeg',
+  //   colorId: 31
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color1_photo6.jpeg',
+  //   colorId: 31
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color1_photo7.jpeg',
+  //   colorId: 31
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color2_photo1.jpeg',
+  //   colorId: 32
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color2_photo2.jpeg',
+  //   colorId: 32
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color2_photo3.jpeg',
+  //   colorId: 32
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color2_photo4.jpeg',
+  //   colorId: 32
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color2_photo5.jpeg',
+  //   colorId: 32
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color2_photo6.jpeg',
+  //   colorId: 32
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color2_photo7.jpeg',
+  //   colorId: 32
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color3_photo1.jpeg',
+  //   colorId: 33
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color3_photo2.jpeg',
+  //   colorId: 33
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color3_photo3.jpeg',
+  //   colorId: 33
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color3_photo4.jpeg',
+  //   colorId: 33
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color3_photo5.jpeg',
+  //   colorId: 33
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color3_photo6.jpeg',
+  //   colorId: 33
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color4_photo1.jpeg',
+  //   colorId: 34
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color4_photo2.jpeg',
+  //   colorId: 34
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color4_photo3.jpeg',
+  //   colorId: 34
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color4_photo4.jpeg',
+  //   colorId: 34
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color4_photo5.jpeg',
+  //   colorId: 34
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color4_photo6.jpeg',
+  //   colorId: 34
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color4_photo7.jpeg',
+  //   colorId: 34
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color5_photo1.jpeg',
+  //   colorId: 35
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color5_photo2.jpeg',
+  //   colorId: 35
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color5_photo3.jpeg',
+  //   colorId: 35
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product7/lulumelon_product7_color5_photo4.jpeg',
+  //   colorId: 35
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color1_photo1.jpeg',
+  //   colorId: 36
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color1_photo2.jpeg',
+  //   colorId: 36
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color1_photo3.jpeg',
+  //   colorId: 36
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color1_photo4.jpeg',
+  //   colorId: 36
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color1_photo5.jpeg',
+  //   colorId: 36
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color1_photo6.jpeg',
+  //   colorId: 36
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color2_photo1.jpeg',
+  //   colorId: 37
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color2_photo2.jpeg',
+  //   colorId: 37
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color2_photo3.jpeg',
+  //   colorId: 37
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color2_photo4.jpeg',
+  //   colorId: 37
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color2_photo5.jpeg',
+  //   colorId: 37
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color2_photo6.jpeg',
+  //   colorId: 37
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color3_photo1.jpeg',
+  //   colorId: 38
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color3_photo2.jpeg',
+  //   colorId: 38
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color3_photo3.jpeg',
+  //   colorId: 38
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color3_photo4.jpeg',
+  //   colorId: 38
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color3_photo5.jpeg',
+  //   colorId: 38
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color3_photo6.jpeg',
+  //   colorId: 38
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color4_photo1.jpeg',
+  //   colorId: 39
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color4_photo2.jpeg',
+  //   colorId: 39
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color4_photo3.jpeg',
+  //   colorId: 39
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color4_photo4.jpeg',
+  //   colorId: 39
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color4_photo5.jpeg',
+  //   colorId: 39
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product8/lulumelon_product8_color4_photo6.jpeg',
+  //   colorId: 39
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color1_photo1.jpeg',
+  //   colorId: 40
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color1_photo2.jpeg',
+  //   colorId: 40
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color1_photo3.jpeg',
+  //   colorId: 40
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color1_photo4.jpeg',
+  //   colorId: 40
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color1_photo5.jpeg',
+  //   colorId: 40
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color1_photo6.jpeg',
+  //   colorId: 40
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color2_photo1.jpeg',
+  //   colorId: 41
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color2_photo2.jpeg',
+  //   colorId: 41
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color2_photo3.jpeg',
+  //   colorId: 41
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color2_photo4.jpeg',
+  //   colorId: 41
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color2_photo5.jpeg',
+  //   colorId: 41
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product9/lulumelon_product9_color2_photo6.jpeg',
+  //   colorId: 41
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color1_photo1.jpeg',
+  //   colorId: 42
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color1_photo2.jpeg',
+  //   colorId: 42
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color1_photo3.jpeg',
+  //   colorId: 42
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color1_photo4.jpeg',
+  //   colorId: 42
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color1_photo5.jpeg',
+  //   colorId: 42
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color1_photo6.jpeg',
+  //   colorId: 42
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color2_photo1.jpeg',
+  //   colorId: 43
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color2_photo2.jpeg',
+  //   colorId: 43
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color2_photo3.jpeg',
+  //   colorId: 43
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color2_photo4.jpeg',
+  //   colorId: 43
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color2_photo5.jpeg',
+  //   colorId: 43
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color3_photo1.jpeg',
+  //   colorId: 44
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color3_photo2.jpeg',
+  //   colorId: 44
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color3_photo3.jpeg',
+  //   colorId: 44
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color3_photo4.jpeg',
+  //   colorId: 44
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color3_photo5.jpeg',
+  //   colorId: 44
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color3_photo6.jpeg',
+  //   colorId: 44
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color3_photo7.jpeg',
+  //   colorId: 44
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color4_photo1.jpeg',
+  //   colorId: 45
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color4_photo2.jpeg',
+  //   colorId: 45
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color4_photo3.jpeg',
+  //   colorId: 45
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color4_photo4.jpeg',
+  //   colorId: 45
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color4_photo5.jpeg',
+  //   colorId: 45
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color4_photo6.jpeg',
+  //   colorId: 45
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color5_photo1.jpeg',
+  //   colorId: 46
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color5_photo2.jpeg',
+  //   colorId: 46
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color5_photo3.jpeg',
+  //   colorId: 46
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color5_photo4.jpeg',
+  //   colorId: 46
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color5_photo5.jpeg',
+  //   colorId: 46
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color5_photo6.jpeg',
+  //   colorId: 46
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color6_photo1.jpeg',
+  //   colorId: 47
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color6_photo2.jpeg',
+  //   colorId: 47
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color6_photo3.jpeg',
+  //   colorId: 47
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color6_photo4.jpeg',
+  //   colorId: 47
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color6_photo5.jpeg',
+  //   colorId: 47
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color6_photo6.jpeg',
+  //   colorId: 47
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo1.jpeg',
+  //   colorId: 48
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo2.jpeg',
+  //   colorId: 48
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo3.jpeg',
+  //   colorId: 48
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo4.jpeg',
+  //   colorId: 48
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo5.jpeg',
+  //   colorId: 48
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo6.jpeg',
+  //   colorId: 48
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo7.jpeg',
+  //   colorId: 48
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color7_photo8.jpeg',
+  //   colorId: 48
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color8_photo1.jpeg',
+  //   colorId: 49
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color8_photo2.jpeg',
+  //   colorId: 49
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color8_photo3.jpeg',
+  //   colorId: 49
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color8_photo4.jpeg',
+  //   colorId: 49
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color8_photo5.jpeg',
+  //   colorId: 49
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color9_photo1.jpeg',
+  //   colorId: 50
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color9_photo2.jpeg',
+  //   colorId: 50
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color9_photo3.jpeg',
+  //   colorId: 50
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color9_photo4.jpeg',
+  //   colorId: 50
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color9_photo5.jpeg',
+  //   colorId: 50
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product10/lulumelon_product10_color9_photo6.jpeg',
+  //   colorId: 50
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color1_photo1.jpeg',
+  //   colorId: 51
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color1_photo2.jpeg',
+  //   colorId: 51
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color1_photo3.jpeg',
+  //   colorId: 51
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color1_photo4.jpeg',
+  //   colorId: 51
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color1_photo5.jpeg',
+  //   colorId: 51
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color1_photo6.jpeg',
+  //   colorId: 51
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color2_photo1.jpeg',
+  //   colorId: 52
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color2_photo2.jpeg',
+  //   colorId: 52
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color2_photo3.jpeg',
+  //   colorId: 52
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color2_photo4.jpeg',
+  //   colorId: 52
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color2_photo5.jpeg',
+  //   colorId: 52
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color2_photo6.jpeg',
+  //   colorId: 52
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color3_photo1.jpeg',
+  //   colorId: 53
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color3_photo2.jpeg',
+  //   colorId: 53
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color3_photo3.jpeg',
+  //   colorId: 53
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color3_photo4.jpeg',
+  //   colorId: 53
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color3_photo5.jpeg',
+  //   colorId: 53
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color3_photo6.jpeg',
+  //   colorId: 53
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color4_photo1.jpeg',
+  //   colorId: 54
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color4_photo2.jpeg',
+  //   colorId: 54
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color4_photo3.jpeg',
+  //   colorId: 54
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color4_photo4.jpeg',
+  //   colorId: 54
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color4_photo5.jpeg',
+  //   colorId: 54
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color4_photo6.jpeg',
+  //   colorId: 54
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color5_photo1.jpeg',
+  //   colorId: 55
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color5_photo2.jpeg',
+  //   colorId: 55
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color5_photo3.jpeg',
+  //   colorId: 55
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color5_photo4.jpeg',
+  //   colorId: 55
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color5_photo5.jpeg',
+  //   colorId: 55
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color5_photo6.jpeg',
+  //   colorId: 55
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color6_photo1.jpeg',
+  //   colorId: 56
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color6_photo2.jpeg',
+  //   colorId: 56
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color6_photo3.jpeg',
+  //   colorId: 56
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color6_photo4.jpeg',
+  //   colorId: 56
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color6_photo5.jpeg',
+  //   colorId: 56
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product11/lulumelon_product11_color6_photo6.jpeg',
+  //   colorId: 56
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color1_photo1.jpeg',
+  //   colorId: 57
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color1_photo2.jpeg',
+  //   colorId: 57
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color1_photo3.jpeg',
+  //   colorId: 57
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color1_photo4.jpeg',
+  //   colorId: 57
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color1_photo5.jpeg',
+  //   colorId: 57
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color2_photo1.jpeg',
+  //   colorId: 58
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color2_photo2.jpeg',
+  //   colorId: 58
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color2_photo3.jpeg',
+  //   colorId: 58
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color2_photo4.jpeg',
+  //   colorId: 58
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color3_photo1.jpeg',
+  //   colorId: 59
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color3_photo2.jpeg',
+  //   colorId: 59
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color3_photo3.jpeg',
+  //   colorId: 59
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color3_photo4.jpeg',
+  //   colorId: 59
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color3_photo5.jpeg',
+  //   colorId: 59
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color3_photo6.jpeg',
+  //   colorId: 59
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color4_photo1.jpeg',
+  //   colorId: 60
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color4_photo2.jpeg',
+  //   colorId: 60
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color4_photo3.jpeg',
+  //   colorId: 60
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color4_photo4.jpeg',
+  //   colorId: 60
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color4_photo5.jpeg',
+  //   colorId: 60
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color5_photo1.jpeg',
+  //   colorId: 61
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color5_photo2.jpeg',
+  //   colorId: 61
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color5_photo3.jpeg',
+  //   colorId: 61
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color5_photo4.jpeg',
+  //   colorId: 61
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color5_photo5.jpeg',
+  //   colorId: 61
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color5_photo6.jpeg',
+  //   colorId: 61
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color6_photo1.jpeg',
+  //   colorId: 62
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color6_photo2.jpeg',
+  //   colorId: 62
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color6_photo3.jpeg',
+  //   colorId: 62
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color6_photo4.jpeg',
+  //   colorId: 62
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color6_photo5.jpeg',
+  //   colorId: 62
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color7_photo1.jpeg',
+  //   colorId: 63
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color7_photo2.jpeg',
+  //   colorId: 63
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color7_photo3.jpeg',
+  //   colorId: 63
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color7_photo4.jpeg',
+  //   colorId: 63
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color7_photo5.jpeg',
+  //   colorId: 63
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product12/lulumelon_product12_color7_photo6.jpeg',
+  //   colorId: 63
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color1_photo1.jpeg',
+  //   colorId: 64
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color1_photo2.jpeg',
+  //   colorId: 64
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color1_photo3.jpeg',
+  //   colorId: 64
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color1_photo4.jpeg',
+  //   colorId: 64
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color1_photo5.jpeg',
+  //   colorId: 64
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color1_photo6.jpeg',
+  //   colorId: 64
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color1_photo7.jpeg',
+  //   colorId: 64
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color2_photo1.jpeg',
+  //   colorId: 65
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color2_photo2.jpeg',
+  //   colorId: 65
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color2_photo3.jpeg',
+  //   colorId: 65
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color2_photo4.jpeg',
+  //   colorId: 65
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color2_photo5.jpeg',
+  //   colorId: 65
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color2_photo6.jpeg',
+  //   colorId: 65
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color3_photo1.jpeg',
+  //   colorId: 66
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color3_photo2.jpeg',
+  //   colorId: 66
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color3_photo3.jpeg',
+  //   colorId: 66
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color3_photo4.jpeg',
+  //   colorId: 66
+  // },
+  // {
+  //   photo_url: 'https://s3-us-west-1.amazonaws.com/fec-lulumelon/product13/lulumelon_product13_color3_photo5.jpeg',
+  //   colorId: 66
+  // }
 ];
 
 connection.sync({ force: false })
