@@ -10,30 +10,29 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      // mainItem: 1,
-      // itemOne: [1, []],
-      // itemTwo: [2, []],
-      // itemThree: [3, []],
-      // itemFour: [4, []],
-      similarItemsId: [1, 2, 3, 4],
+      similarItemsId: [],
       similarItemsData: [],
-      // photos: [],
-    // eslint-disable-next-line semi
-    }
+    };
     this.getFullData = this.getFullData.bind(this);
+    this.fillData = this.fillData.bind(this);
+  }
+
+  componentWillMount() {
+    let rands = [];
+    for (let j = 0; rands.length < 4; j += 1) {
+      let nextInput = Math.floor(Math.random() * 13) + 1
+      if (!rands.includes(nextInput)) {
+        rands.push(nextInput);
+      }
+    }
+    this.setState({
+      similarItemsId: rands,
+      similarItemsData: [],
+    });
   }
 
   componentDidMount() {
-    this.setState({
-      similarItemsData: [],
-    });
-    // this.getFullData(this.state.itemOne);
-    // this.getFullData(this.state.itemTwo);
-    // this.getFullData(this.state.itemThree);
-    // this.getFullData(this.state.itemFour);
-    for (let i = 0; i < this.state.similarItemsId.length; i += 1) {
-      this.getFullData(this.state.similarItemsId[i]);
-    }
+    this.fillData();
   }
 
   // eslint-disable-next-line class-methods-use-this
@@ -45,11 +44,16 @@ class App extends React.Component {
         this.setState({
           similarItemsData: temp,
         });
-        // console.log('state client side', this.state.similarItemsData);
       })
       .catch((error) => {
         console.error('error getting from client', error);
       });
+  }
+
+  fillData() {
+    for (let i = 0; i < this.state.similarItemsId.length; i += 1) {
+      this.getFullData(this.state.similarItemsId[i]);
+    }
   }
 
   render() {
