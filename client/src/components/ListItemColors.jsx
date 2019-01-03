@@ -11,10 +11,10 @@ const ListItemColors = (props) => {
       {/* <TransitionGroup transitionName="allColors" transitionEnterTimeout={700}
         transitionLeaveTimeout={700}>
         <CSSTransition key={props.colors.id} timeout={500} classNames="fade"> */}
-      {props.colors.map((item) => {
+      {props.colors.map((item, i) => {
         return (
           <span className="oneSwatch">
-            <img id="swatchImage" src={item.swatch_url} alt="" />
+            <img id="swatchImage" src={item.swatch_url} alt="" onMouseEnter={() => { props.changeColor(i); }} />
           </span>
         );
       })}

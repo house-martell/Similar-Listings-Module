@@ -9,28 +9,16 @@ class SimilarListItem extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      // item: 'useless',
-      isHovering: false,
+      activeColor: 0,
     };
-    this.handleMouseHover = this.handleMouseHover.bind(this);
-    this.toggleHoverState = this.toggleHoverState.bind(this);
+    this.handleSwatchHover = this.handleSwatchHover.bind(this);
   }
 
-  handleMouseHover() {
-    this.setState(this.toggleHoverState);
+  handleSwatchHover(newId) {
+    this.setState({
+      activeColor: newId,
+    });
   }
-
-  toggleHoverState(state) {
-    return { isHovering: !state.isHovering };
-  }
-
-
-  // ideas::
-  // have the colors be a state item, change the state per child item
-  // so therefore need a change state method based on color
-  // change rendered image based on onhover
-
-  // stateful component? Let's have a method that changes the rendered picture
 
   render() {
     return (
@@ -42,13 +30,13 @@ class SimilarListItem extends React.Component {
 
         <div className="SimilarImageContainer">
           <div className="SimilarImageWrapper">
-            <img className="SimilarImage" src={this.props.item[0].colors[0].photos[0].photo_url} alt="" />
-            <img className="SimilarHoverImage" src={this.props.item[0].colors[0].photos[1].photo_url} alt="" />
+            <img className="SimilarImage" src={this.props.item[0].colors[this.state.activeColor].photos[0].photo_url} alt="" />
+            <img className="SimilarHoverImage" src={this.props.item[0].colors[this.state.activeColor].photos[1].photo_url} alt="" />
           </div>
           <div className="ColorSwatchesContainer">
             {/* <a className="arrow-left arrow"><img className="ArrowPic" src="https://s3-us-west-1.amazonaws.com/lubucket3003/leftarrow.png" alt="" /></a>
             <a className="arrow-right arrow"><img className="RightArrowPic" src="https://s3-us-west-1.amazonaws.com/lubucket3003/leftarrow.png" alt="" /></a> */}
-            <ListItemColors colors={this.props.item[0].colors.slice(0, 4)} key={this.props.item[0].colors.id} />
+            <ListItemColors colors={this.props.item[0].colors.slice(0, 4)} key={this.props.item[0].colors.id} changeColor={this.handleSwatchHover} />
           </div>
         </div>
         {
