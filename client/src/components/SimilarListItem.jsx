@@ -41,7 +41,7 @@ class SimilarListItem extends React.Component {
         {/* <img src={this.props.item[0].colors[0].photos[1].photo_url} alt="" onMouseEnter={this.handleMouseHover} onMouseLeave={this.handleMouseHover} /> */}
 
         <div className="SimilarImageContainer">
-          <div className="SimilarImageWrapper" >
+          <div className="SimilarImageWrapper">
             <img className="SimilarImage" src={this.props.item[0].colors[0].photos[0].photo_url} alt="" />
             <img className="SimilarHoverImage" src={this.props.item[0].colors[0].photos[1].photo_url} alt="" />
           </div>
@@ -50,8 +50,6 @@ class SimilarListItem extends React.Component {
             <a className="arrow-right arrow"><img className="RightArrowPic" src="https://s3-us-west-1.amazonaws.com/lubucket3003/leftarrow.png" alt="" /></a> */}
             <ListItemColors colors={this.props.item[0].colors.slice(0, 4)} key={this.props.item[0].colors.id} />
           </div>
-          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" />
-          <script src="../../dist/clickscript.js" />
         </div>
         {
         // this.state.isHovering && <ListItemColors colors={this.props.item[0].colors}
