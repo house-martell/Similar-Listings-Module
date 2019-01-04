@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/house-martell/Similar-Listings-Module#readme",
   "devDependencies": {
+    "css-loader": "^2.1.0",
     "eslint": "^5.10.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^3.3.0",
@@ -28,6 +29,7 @@
     "eslint-plugin-react": "^7.11.1",
     "jest": "^23.6.0",
     "prettier": "^1.15.3",
+    "style-loader": "^0.23.1",
     "superagent": "^4.0.0",
     "supertest": "^3.3.0"
   },
@@ -42,6 +44,7 @@
     "body-parser": "^1.18.3",
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
+    "file-loader": "^3.0.1",
     "jquery": "^3.3.1",
     "morgan": "^1.9.1",
     "mysql": "^2.16.0",
@@ -52,6 +55,7 @@
     "react-dom": "^16.7.0",
     "react-transition-group": "^1.2.1",
     "sequelize": "^4.42.0",
+    "url-loader": "^1.1.2",
     "webpack": "^4.28.1",
     "webpack-cli": "^3.1.2"
   }

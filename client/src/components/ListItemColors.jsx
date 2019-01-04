@@ -2,6 +2,7 @@
 /* eslint-disable react/destructuring-assignment */
 /* eslint-disable arrow-body-style */
 import React from 'react';
+import style from '../../dist/styles/ListItemColors.css';
 // import { TransitionGroup, CSSTransition } from 'react-transition-group';
 
 const ListItemColors = (props) => {
@@ -13,8 +14,8 @@ const ListItemColors = (props) => {
         <CSSTransition key={props.colors.id} timeout={500} classNames="fade"> */}
       {props.colors.map((item, i) => {
         return (
-          <span className="oneSwatch">
-            <img id="swatchImage" src={item.swatch_url} alt="" onMouseEnter={() => { props.changeColor(i); }} />
+          <span className={style.oneSwatch}>
+            <img className={style.swatchImage} src={item.swatch_url} alt="" onMouseEnter={() => { props.changeColor(i); }} />
           </span>
         );
       })}

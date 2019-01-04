@@ -5,6 +5,7 @@
 import React from 'react';
 import axios from 'axios';
 import SimilarListItem from './SimilarListItem.jsx';
+import style from '../../dist/styles/App.css';
 
 class App extends React.Component {
   constructor(props) {
@@ -59,8 +60,8 @@ class App extends React.Component {
   render() {
     return (
       <div className="TheWholeThing">
-        <div id="title">You may also like</div>
-        <div className="itemContainer">
+        <div className={style.title}>You may also like</div>
+        <div className={style.itemContainer}>
           {this.state.similarItemsData.map((item) => {
             return <SimilarListItem item={item} />;
           })}

@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'verlag';
+  src: url('https://s3-us-west-1.amazonaws.com/lubucket3003/A8ED03B0C127F2F16.woff2')
+}
+
+.title {
+  font-family: 'verlag';
+  text-align: center;
+  font-size: 48px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.itemContainer {
+  /* color: #fff; */
+  background-color: #fff;  
+  /* padding: 20px 0; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: center;
+  padding-top: 0px;
+  padding-left: 40px;
+  padding-right: 40px;
+}

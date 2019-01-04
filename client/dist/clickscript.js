@@ -18,4 +18,4 @@ $(".arrow").click(() => {
     })
   }
 });
-console.log('I WAS HERE');
+// console.log('I WAS HERE');

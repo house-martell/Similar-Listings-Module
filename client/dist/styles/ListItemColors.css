@@ -1,0 +1,12 @@
+.oneSwatch {
+  padding-left: 4px;
+  padding-right: 5px;
+  max-width: 330px;
+  height: 150px;
+}
+
+.swatchImage {
+  height: 30px;
+  width: 60px;
+  z-index: 10;
+}
