@@ -38,7 +38,7 @@ class App extends React.Component {
 
   // eslint-disable-next-line class-methods-use-this
   getFullData(input) {
-    axios.get(`/api/items/${input}`)
+    axios.get(`http://localhost:3003/api/items/${input}`)
       .then(({ data }) => {
         const temp = [...this.state.similarItemsData];
         temp.push(data);
