@@ -2,18 +2,14 @@
   font-family: 'verlag';
   src: url('https://s3-us-west-1.amazonaws.com/lubucket3003/A8ED03B0C127F2F16.woff2')
 }
-
 .SimilarListItem {
   font-family: 'verlag';
   padding-left: 8px;
   padding-right: 8px;
 }
-
 .SimilarImageContainer {
   position: relative;
-  /* z-index: 1; */
 }
-
 .ColorSwatchesContainer {
   position: absolute; 
   bottom: 0px;
@@ -33,41 +29,32 @@
   width: 97%;
   white-space: nowrap;
   overflow: hidden;
-  /* overflow-x: scroll; */
   z-index: 5;
 }
-
 .SimilarImageContainer:hover .ColorSwatchesContainer { 
   opacity: 0.99; 
 } 
-
 .SimilarImage {
   max-width: 100%;
   position:absolute;
   top: 0;
   right: 0;
 }
-
 .SimilarHoverImage {
   max-width: 100%;
 }
-
 .SimilarImage:hover {
   opacity: 0;
 }
-
-
 .similarItemName {
   padding-top: 9px;
   padding-bottom: 5px;
   font-size: 20px;
 }
-
 .similarItemPrice {
   font-size: 18px;
   font-weight: 100;
 }
-
 .similarItemCurrency {
   font-size: 13px;
 }
