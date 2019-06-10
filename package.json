@@ -54,7 +54,6 @@
     "path": "^0.12.7",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-transition-group": "^1.2.1",
     "sequelize": "^4.42.0",
     "url-loader": "^1.1.2",
     "webpack": "^4.28.1",

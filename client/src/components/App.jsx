@@ -19,9 +19,9 @@ class App extends React.Component {
   }
 
   componentWillMount() {
-    let rands = [];
+    const rands = [];
     for (let j = 0; rands.length < 4; j += 1) {
-      let nextInput = Math.floor(Math.random() * 13) + 1
+      const nextInput = Math.floor(Math.random() * 13) + 1;
       if (!rands.includes(nextInput)) {
         rands.push(nextInput);
       }
@@ -38,7 +38,8 @@ class App extends React.Component {
 
   // eslint-disable-next-line class-methods-use-this
   getFullData(input) {
-    axios.get(`http://localhost:3003/api/items/${input}`)
+    // axios.get(`http://localhost:3003/api/items/${input}`)
+    axios.get(`http://54.183.169.240:3003/api/items/${input}`)
       .then(({ data }) => {
         const temp = [...this.state.similarItemsData];
         temp.push(data);

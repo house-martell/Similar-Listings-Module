@@ -24,19 +24,12 @@ class SimilarListItem extends React.Component {
   render() {
     return (
       <div className={style.SimilarListItem}>
-
-        {/* {console.log('props similar item', this.props)} */}
-        {/* <TransitionGroup transitionName="allColors" transitionEnterTimeout={700} transitionLeaveTimeout={700}> */}
-        {/* <img src={this.props.item[0].colors[0].photos[1].photo_url} alt="" onMouseEnter={this.handleMouseHover} onMouseLeave={this.handleMouseHover} /> */}
-
         <div className={style.SimilarImageContainer}>
           <div className={style.SimilarImageWrapper}>
             <img className={style.SimilarImage} src={this.props.item[0].colors[this.state.activeColor].photos[0].photo_url} alt="" />
             <img className={style.SimilarHoverImage} src={this.props.item[0].colors[this.state.activeColor].photos[1].photo_url} alt="" />
           </div>
           <div className={style.ColorSwatchesContainer}>
-            {/* <a className="arrow-left arrow"><img className="ArrowPic" src="https://s3-us-west-1.amazonaws.com/lubucket3003/leftarrow.png" alt="" /></a>
-            <a className="arrow-right arrow"><img className="RightArrowPic" src="https://s3-us-west-1.amazonaws.com/lubucket3003/leftarrow.png" alt="" /></a> */}
             <ListItemColors colors={this.props.item[0].colors.slice(0, 4)} key={this.props.item[0].colors.id} changeColor={this.handleSwatchHover} />
           </div>
         </div>

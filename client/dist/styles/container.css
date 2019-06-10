@@ -2,7 +2,6 @@
   font-family: 'verlag';
   src: url('https://s3-us-west-1.amazonaws.com/lubucket3003/A8ED03B0C127F2F16.woff2')
 }
-
 #title {
   font-family: 'verlag';
   text-align: center;
@@ -10,11 +9,8 @@
   padding-top: 25px;
   padding-bottom: 25px;
 }
-
 .itemContainer {
-  /* color: #fff; */
-  background-color: #fff;  
-  /* padding: 20px 0; */
+  background-color: #fafafa;  
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -23,18 +19,14 @@
   padding-left: 40px;
   padding-right: 40px;
 }
-
 .SimilarListItem {
   font-family: 'verlag';
   padding-left: 8px;
   padding-right: 8px;
 }
-
 .SimilarImageContainer {
   position: relative;
-  /* z-index: 1; */
 }
-
 .ColorSwatchesContainer {
   position: absolute; 
   bottom: 0px;
@@ -54,47 +46,38 @@
   width: 97%;
   white-space: nowrap;
   overflow: hidden;
-  /* overflow-x: scroll; */
   z-index: 5;
 }
-
 .SimilarImageContainer:hover .ColorSwatchesContainer { 
   opacity: 0.99; 
 } 
-
 .oneSwatch {
   padding-left: 4px;
   padding-right: 5px;
   max-width: 330px;
   height: 150px;
 }
-
 #swatchImage {
   height: 30px;
   width: 60px;
   z-index: 10;
 }
-
 #swatchImage:hover {
   outline: 1px solid black;
   outline-offset: 2px;
 }
-
 .SimilarImage {
   max-width: 100%;
   position:absolute;
   top: 0;
   right: 0;
 }
-
 .SimilarHoverImage {
   max-width: 100%;
 }
-
 .SimilarImage:hover {
   opacity: 0;
 }
-
 .ArrowPic {
   max-width: 100%;
   max-height: 100%;
@@ -105,7 +88,6 @@
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
 }
-
 .arrow-left {
   position: absolute;
   width: 15px;
@@ -116,7 +98,6 @@
   background-color: white;
   opacity: 0.5;
 }
-
 .arrow-right {
   position: absolute;
   width: 15px;
@@ -127,18 +108,15 @@
   background-color: white;
   opacity: 0.8;
 }
-
 #similarItemName {
   padding-top: 9px;
   padding-bottom: 5px;
   font-size: 20px;
 }
-
 #similarItemPrice {
   font-size: 18px;
   font-weight: 100;
 }
-
 #similarItemCurrency {
   font-size: 13px;
 }
